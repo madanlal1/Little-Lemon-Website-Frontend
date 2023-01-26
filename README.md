@@ -2,8 +2,8 @@
 
 ## How to Run
 
-### npm install
+### 1. npm install
 
-### npm run dev
+### 2. npm run dev
 
 ### Local :   http://127.0.0.1:5173/
