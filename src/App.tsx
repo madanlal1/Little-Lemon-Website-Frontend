@@ -5,6 +5,10 @@ import { Layout } from "src/components";
 import { NotificationsProvider } from "@mantine/notifications";
 import { StateContextProvider } from "src/context";
 
+export function isTrue(input: boolean) {
+  return input === true;
+}
+
 const App = () => {
   return (
     <MantineProvider withGlobalStyles withNormalizeCSS>
